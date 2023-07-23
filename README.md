@@ -1,2 +1,3 @@
-# Assignment1Hackslash
-Created with CodeSandbox
+# Assignment1 Hackslash
+Team 405 - Manya Chandra
+
